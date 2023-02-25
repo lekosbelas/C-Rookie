@@ -1,4 +1,3 @@
-// Replace ___ with your code
 #include <stdio.h>
 
 int main() {
